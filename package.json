@@ -1,0 +1,26 @@
+{
+  "name": "coherence-cardiaque",
+  "version": "1.0.0",
+  "description": "Atelier de cohérence cardiaque qui enveloppe tout ce qui a été vu jusqu'à maintenant : HTML, CSS et JS.",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XavierMarcotte/coherence-cardiaque.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XavierMarcotte/coherence-cardiaque/issues"
+  },
+  "homepage": "https://github.com/XavierMarcotte/coherence-cardiaque#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
