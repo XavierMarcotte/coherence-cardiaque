@@ -12,27 +12,38 @@ html {
         .page {
             display: none;
             position: absolute;
-            width: 100%;
-            height: 100%;
+            width: 100vh;
+            height: 100vh;
             margin: auto;
             .close {
                 cursor: pointer;
-                width: 50px;
-                background: none;
-                color: white;
-            }
-            .rond{
-                display: flex;
+                font-size: 1.5rem;
                 position: absolute;
-                top: 50%;
+                bottom: 200px;
                 left: 50%;
-                width: 50px;
+                transform: translate(-50%, -50%);
+                width: 70%;
                 height: 50px;
                 border-radius: 50px;
-                background-color: red;
+                background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+            }
+            .rond{
+                position: absolute;
+                top: 60%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 100px;
+                height: 100px;
+                border-radius: 50px;
+                background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
             }
             .durée {
+                position: absolute;
                 color: white;
+                font-weight: bold;
+                font-size: 3rem;
+                top: 40px;
+                left: 200px;
             }
         }
         h1 {
@@ -61,7 +72,7 @@ html {
                     margin-left: 1rem;
                 }
                 select {
-                    height: 2rem;
+                    height: 3rem;
                     border-radius: 50px;
                     border: 2px solid #fda085;
                     background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
@@ -88,4 +99,74 @@ html {
     }
 }
 
+.rythme37 {
+    animation: 10s linear infinite normal planet37;
+  }
+  
+.rythme46 {
+    animation: 10s linear infinite normal planet46;
+  }
+  
+.rythme55 {
+    animation: 10s linear infinite normal planet55;
+  }
+  
+.rythme28 {
+    animation: 10s linear infinite normal planet28;
+  }
 
+@keyframes planet37 {
+    0% {
+      transform: scale(0.5);
+    }
+  
+    70% {
+      transform: scale(0.8);
+    }
+  
+    100% {
+      transform: scale(0.5);
+    }
+  }
+  
+@keyframes planet28 {
+    0% {
+      transform: scale(0.5);
+    }
+  
+    80% {
+      transform: scale(0.8);
+    }
+  
+    100% {
+      transform: scale(0.5);
+    }
+  }
+  
+@keyframes planet55 {
+    0% {
+      transform: scale(0.5);
+    }
+  
+    50% {
+      transform: scale(0.8);
+    }
+  
+    100% {
+      transform: scale(0.5);
+    }
+  }
+  
+@keyframes planet46 {
+    0% {
+      transform: scale(0.5);
+    }
+  
+    60% {
+      transform: scale(0.8);
+    }
+  
+    100% {
+      transform: scale(0.5);
+    }
+  }

@@ -1,29 +1,23 @@
-const body = document.querySelector('body');
-const bubble = document.querySelector('.page');
-const button = document.querySelector('.lancer');
-const select = document.querySelectorAll('.select')
+const accueil = document.querySelector('.accueil')
 const lancer = document.querySelector('.lancer');
-const close = document.querySelector('.close')
-// console.log(lancer);
+const page = document.querySelector('.page');
+const coherence = document.querySelector('.coherence');
+const close = document.querySelector('.close');
 
 
-button.addEventListener('click' , () => {
-    bubble.style.display = 'block';
-    bubble.style.zIndex = '5';
-    body.style.background = 'rgba(0,0,0,0.8)';
-    select.forEach((selects) => {
-        selects.style.background='rgba(0,0,0,0.8)'
-    });
-    lancer.style.background = 'rgba(0,0,0,0.8)';
+// affichage cohérence
+
+lancer.addEventListener('click', () => {
+    accueil.style.display = 'none';
+    page.style.display = 'flex';
+});
+
+close.addEventListener('click', () => {
+    accueil.style.display = '';
+    page.style.display = 'none';
 })
 
-close.addEventListener('click' , () => {
-    bubble.style.display = 'none';
-    bubble.style.zIndex = '0';
-    body.style.background = '';
-    select.forEach((selects) => {
-        selects.style.background=''
-    });
-    lancer.style.background = '';
-})
+
+//T empo 
+
 

@@ -14,8 +14,8 @@ html body {
 }
 
 html body .page {
-  width: 100%;
-  height: 100%;
+  width: 100vh;
+  height: 100vh;
   margin: auto;
   display: none;
   position: absolute;
@@ -23,24 +23,35 @@ html body .page {
 
 html body .page .close {
   cursor: pointer;
-  width: 50px;
-  color: #fff;
-  background: none;
+  width: 70%;
+  height: 50px;
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+  border-radius: 50px;
+  font-size: 1.5rem;
+  position: absolute;
+  bottom: 200px;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 html body .page .rond {
-  width: 50px;
-  height: 50px;
-  background-color: red;
+  width: 100px;
+  height: 100px;
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
   border-radius: 50px;
-  display: flex;
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 html body .page .durée {
   color: #fff;
+  font-size: 3rem;
+  font-weight: bold;
+  position: absolute;
+  top: 40px;
+  left: 200px;
 }
 
 html body h1 {
@@ -75,7 +86,7 @@ html body .coherence div label {
 }
 
 html body .coherence div select {
-  height: 2rem;
+  height: 3rem;
   cursor: pointer;
   background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
   background-repeat: no-repeat;
@@ -97,6 +108,78 @@ html body .coherence button {
   margin: 0 auto;
   padding-left: 2rem;
   font-weight: bolder;
+}
+
+.rythme37 {
+  animation: 10s linear infinite planet37;
+}
+
+.rythme46 {
+  animation: 10s linear infinite planet46;
+}
+
+.rythme55 {
+  animation: 10s linear infinite planet55;
+}
+
+.rythme28 {
+  animation: 10s linear infinite planet28;
+}
+
+@keyframes planet37 {
+  0% {
+    transform: scale(.5);
+  }
+
+  70% {
+    transform: scale(.8);
+  }
+
+  100% {
+    transform: scale(.5);
+  }
+}
+
+@keyframes planet28 {
+  0% {
+    transform: scale(.5);
+  }
+
+  80% {
+    transform: scale(.8);
+  }
+
+  100% {
+    transform: scale(.5);
+  }
+}
+
+@keyframes planet55 {
+  0% {
+    transform: scale(.5);
+  }
+
+  50% {
+    transform: scale(.8);
+  }
+
+  100% {
+    transform: scale(.5);
+  }
+}
+
+@keyframes planet46 {
+  0% {
+    transform: scale(.5);
+  }
+
+  60% {
+    transform: scale(.8);
+  }
+
+  100% {
+    transform: scale(.5);
+  }
 }
 
 /*# sourceMappingURL=index.ce1d6491.css.map */

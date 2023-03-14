@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cohérence cardiaque</title>
     <link rel="stylesheet" href="/index.ce1d6491.css">
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
@@ -14,46 +13,48 @@
     <script src="/index.579125c3.js" defer=""></script>
 </head>
 <body>
-    <div class="page">
-        <img src="/59254.bcba4a37.png" class="close" alt="">
-        <span class="rond"></span>
+    <section class="page">
+        <button class="close">Sortir de la cohérence</button>
+        <span id="rond"></span>
         <p class="durée">Temps restant : </p>
-    </div>
-    <h1>respirez, vous serez plus vivant</h1>
-    <p>Bienvenu sur votre cohérence cardiaque. Choisissez votre tempo, votre ambiance, votre durée et laissez vous porter. L'usage de casque ou d'écouteur est conseillée. Bonne méditation.</p>
-    <section class="coherence">
-        <div class="tempo">
-            <label for="options" class="label">Tempo de respiration :</label>
-            <select class="select" name="items" id="options">
-                <option value="">-Choisissez votre tempo-</option>
-                <option value="5/5">5/5</option>
-                <option value="6/4">6/4</option>
-                <option value="7/3">7/3</option>
-                <option value="8/2">8/2</option>
-            </select>
+    </section>
+    <section class="accueil">
+        <h1>respirez, vous serez plus vivant</h1>
+        <p class="texteintro">Bienvenu sur votre cohérence cardiaque. Choisissez votre tempo, votre ambiance, votre durée et laissez vous porter. L'usage de casque ou d'écouteur est conseillée. Bonne méditation.</p>
+        <div class="coherence">
+            <div class="tempo">
+                <label for="options" class="label">Tempo de respiration :</label>
+                <select class="select" name="items" id="options">
+                    <option value="">-Choisissez votre tempo-</option>
+                    <option value="55">5/5</option>
+                    <option value="64">4/6</option>
+                    <option value="73">3/7</option>
+                    <option value="82">2/8</option>
+                </select>
+            </div>
+            <div class="ambiance">
+                <label for="ambiance" class="label">Ambiance :</label>
+                <select class="select" name="items" id="ambiance">
+                    <option value="">-Choisissez votre ambiance-</option>
+                    <option value="forêt">Forêt</option>
+                    <option value="divin">Divin</option>
+                    <option value="nature">Nature</option>
+                    <option value="melodie">Melodie</option>
+                    <!-- <option value="kaaris">Kaaris</option> -->
+                </select>
+            </div>
+            <div class="tempo">
+                <label for="durée" class="label">Durée :</label>
+                <select class="select" name="items" id="durée">
+                    <option value="">-Choisissez votre durée-</option>
+                    <option value="5">5 minutes</option>
+                    <option value="7">7 minutes</option>
+                    <option value="10">10 minutes</option>
+                    <option value="15">15 minutes</option>
+                </select>
+            </div>
+            <button class="lancer">Lancer la cohérence</button>
         </div>
-        <div class="ambiance">
-            <label for="ambiance" class="label">Ambiance :</label>
-            <select class="select" name="items" id="ambiance">
-                <option value="">-Choisissez votre ambiance-</option>
-                <option value="forêt">Forêt</option>
-                <option value="divin">Divin</option>
-                <option value="nature">Nature</option>
-                <option value="melodie">Melodie</option>
-                <option value="kaaris">Kaaris</option>
-            </select>
-        </div>
-        <div class="tempo">
-            <label for="durée" class="label">Durée :</label>
-            <select class="select" name="items" id="durée">
-                <option value="">-Choisissez votre durée-</option>
-                <option value="5">5 minutes</option>
-                <option value="7">7 minutes</option>
-                <option value="10">10 minutes</option>
-                <option value="15">15 minutes</option>
-            </select>
-        </div>
-        <button class="lancer">Lancer la cohérence</button>
     </section>
 <script src="/coherence-cardiaque.59712999.js"></script></body>
 </html>
