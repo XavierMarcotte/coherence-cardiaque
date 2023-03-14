@@ -17,7 +17,7 @@
 122C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\source-map\lib\binary-search.js133231981891594994 0
 134C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\caniuse-lite\data\features\link-icon-svg.js133231981902182603 0
 119C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\cosmiconfig\dist\readFile.js133231981892114894 0
-92C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\src\index.scss133232919807740216 0
+92C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\src\index.scss133233050281031308 0
 134C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133231981889763523 0
 141C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@jridgewell\sourcemap-codec\src\sourcemap-codec.ts133231981892084978 0
 130C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\htmlparser2\lib\WritableStream.d.ts.map133231981892845179 0
@@ -37,7 +37,7 @@
 109C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\.package-lock.json133231982792839739 0
 142C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133231981894595318 0
 127C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\css-tree\lib\lexer\generic-urange.js133231981897071141 0
-82C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist133232971760036714 1
+82C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist133233050080192817 1
 140C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133231981898993591 0
 115C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\weak-lru-cache\README.md133231981891644860 0
 119C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@parcel\workers\lib\index.js133231981893872426 0
@@ -61,7 +61,7 @@
 110C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\picocolors\types.ts133231981890881419 0
 115C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\terser\tools\domprops.js133231981895709355 0
 108C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\timsort\README.md133231981888593436 0
-92C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\src\index.html133232916325172718 0
+92C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\src\index.html133233045601137816 0
 112C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\readdirp\package.json133231982790105926 0
 98C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@parcel133231982789515255 1
 123C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\msgpackr\dist\unpack-no-eval.cjs133231981891390419 0
@@ -75,7 +75,7 @@
 122C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\caniuse-lite\data\regions\MK.js133231981902517391 0
 121C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\mdn-data\css\types.schema.json133231981894737009 0
 150C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133231981894261130 0
-90C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\src\index.js133232971759771360 0
+90C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\src\index.js133233048580780304 0
 110C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\lmdb\dict\dict2.txt133231981899292789 0
 123C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\css-what\lib\commonjs\types.d.ts133231981894677167 0
 123C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\svgo\plugins\sortDefsChildren.js133231981897597325 0
@@ -133,7 +133,7 @@
 122C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\svgo\plugins\convertPathData.js133231981894231209 0
 134C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js133231981888076461 0
 122C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\caniuse-lite\data\regions\CX.js133231981900334009 0
-114C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\coherence-cardiaque.59712999.js133232919071326731 0
+114C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\coherence-cardiaque.59712999.js133233040108225711 0
 108C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\stable\index.d.ts133231981887829409 0
 100C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@trysound133231981876301216 1
 127C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133231981898554762 0
@@ -4331,7 +4331,7 @@
 142C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133231981890152078 0
 147C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@babel\highlight\node_modules\color-convert\package.json133231981887490087 0
 143C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@babel\highlight\node_modules\color-convert\route.js133231981891130959 0
-105C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.ce1d6491.css.map133232919808009504 0
+105C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.ce1d6491.css.map133233050080182835 0
 140C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@babel\highlight\node_modules\chalk\index.js.flow133231981888698293 0
 139C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@babel\highlight\node_modules\chalk\package.json133231981887490087 0
 136C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\@babel\highlight\node_modules\chalk\readme.md133231981890152078 0
@@ -4377,9 +4377,9 @@
 102C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\.bin\terser133231981905110014 0
 106C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\.bin\terser.cmd133231981905110014 0
 106C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\node_modules\.bin\terser.ps1133231981905110014 0
-118C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\coherence-cardiaque.59712999.js.map133232919071356654 0
+118C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\coherence-cardiaque.59712999.js.map133233040108245651 0
 102C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\croix.5aeb0120.webp133232849113995378 0
-100C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.579125c3.js133232971760006798 0
-104C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.579125c3.js.map133232971760026746 0
-101C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.ce1d6491.css133232919807999530 0
-93C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.html133232919071326731 0
+100C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.579125c3.js133233048580939887 0
+104C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.579125c3.js.map133233048580959824 0
+101C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.ce1d6491.css133233050080172859 0
+93C:\Users\le boss\OneDrive\Bureau\Essaie personnels Github\coherence-cardiaque\dist\index.html133233045601525549 0
